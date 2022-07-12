@@ -17,7 +17,7 @@ Deliverables for this project:
 
 ### **Total number of paid 5-star reviews: 48**
 ### **Percentage of paid 5-star reviews: 51.1%**
-
+--------------------------------------------------------
 ### **Total number of unpaid 5-star reviews: 15,663**
 ### **Percentage of unpaid 5-star reviews: 38.7%**
 (code and totals seen below)
